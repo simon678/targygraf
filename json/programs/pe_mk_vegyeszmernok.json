@@ -23,6 +23,11 @@
                     "credits": 3
                 },
                 {
+                    "code": "VEMKFOB333S",
+                    "name": "Számítástechnika",
+                    "credits": 3
+                },
+                {
                     "code": "VEMKFI1312A",
                     "name": "Fizika I.",
                     "credits": 2
@@ -252,11 +257,6 @@
                     "prerequisites": [
                         "VEMKFKB212A"
                     ]
-                },
-                {
-                    "code": "VEMKFOB333S",
-                    "name": "Számítástechnika",
-                    "credits": 3
                 },
                 {
                     "code": "VEMKOK1112A",
